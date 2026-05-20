@@ -69,8 +69,6 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.i like chocolate.com/I Like Chocolate" target="_blank"><img src="https://chatgpt.com/s/m_6a0d4f4876cc81919b1268960baca566" alt="   " style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://chatgpt.com/s/m_6a0d4ffe3fdc81919cb6265fac9f1cbc" alt="Bottom Line" width="100%" />
 </div>
