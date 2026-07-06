@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- Typing animation name/tagline - classic GitHub profile style -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreya+Patha;AI%2FBackend+Engineer;Building+with+Python%2C+LLMs+%26+FastAPI" alt="Typing SVG" />
+<!-- Decorative top banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:D97757&height=160&section=header" width="100%"/>
+
+<!-- Name -->
+<h1><b>Shreya Patha</b></h1>
+
+<!-- Typing animation tagline - sits below the name -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FBackend+Engineer;Building+with+Python%2C+LLMs+%26+FastAPI;Turning+prompts+into+pipelines" alt="Typing SVG" />
 
 <br/>
 
