@@ -2,8 +2,11 @@
 
 <!-- Decorative top banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:D97757&height=160&section=header" width="100%"/>
- 
-<!-- Name --> 
+
+<!-- Profile Photo -->
+<img src="assets/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="Shreya Patha"/>
+
+<!-- Name -->
 <h1><b>Shreya Patha</b></h1>
 
 <!-- Typing animation tagline - sits below the name -->
@@ -12,6 +15,9 @@
 <br/>
 
 <!-- Contact Buttons -->
+<a href="https://shreya-portfolio-mu-six.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/shreya-patha-jw13/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -29,6 +35,8 @@
 ## About Me
 
 AI/Backend Engineer building with Python, LLM APIs (Claude, OpenAI, Groq), and RAG pipelines. I focus on the backend side of AI — REST APIs, structured data pipelines, and vector search — not just prompting. Currently leading a team of AI/ML interns as Subject Captain at UptoSkills while shipping backend systems of my own.
+
+📎 **Explore my full body of work on my portfolio:** [shreya-portfolio-mu-six.vercel.app](https://shreya-portfolio-mu-six.vercel.app/)
 
 ---
 
@@ -69,6 +77,12 @@ Research pipeline orchestrating search, summarization, and fact-checking agents 
 </tr>
 </table>
 
+<div align="center">
+  <a href="https://shreya-portfolio-mu-six.vercel.app/">
+    <img src="https://img.shields.io/badge/View_all_projects_on_my_Portfolio-→-58A6FF?style=for-the-badge" alt="View Portfolio"/>
+  </a>
+</div>
+
 ---
 
 ## Tech Stack
@@ -104,6 +118,21 @@ Research pipeline orchestrating search, summarization, and fact-checking agents 
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreya661&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya661&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya661&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya661&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
 ## Currently
 
 - **Building:** Multi-agent research platforms with LangGraph + FastAPI
@@ -123,6 +152,10 @@ TKR College of Engineering and Technology · 2022 – 2026
 
 *Built with precision. Designed with intuition.*
 
+📎 **[View my Portfolio →](https://shreya-portfolio-mu-six.vercel.app/)**
+
 <img src="https://komarev.com/ghpvc/?username=shreya661&color=blue&style=flat-square" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:58A6FF&height=100&section=footer" width="100%"/>
 
 </div>
