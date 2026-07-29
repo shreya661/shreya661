@@ -3,7 +3,7 @@
 <!-- Decorative top banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:D97757&height=160&section=header" width="100%"/>
  
-<!-- Name -->
+<!-- Name --> 
 <h1><b>Shreya Patha</b></h1>
 
 <!-- Typing animation tagline - sits below the name -->
