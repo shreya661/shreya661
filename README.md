@@ -4,7 +4,7 @@
 
 # Shreya Patha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Generative+AI+%7C+Backend+%7C+Machine+Learning;Building+practical+AI+applications" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Generative+AI+%7C+Backend+%7C+Machine+Learning;Building+practical+AI+applications" alt="Typing animation"/> 
 
 <br>
 
