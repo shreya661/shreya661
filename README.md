@@ -11,7 +11,7 @@
 <a href="https://shreya-portfolio-mu-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
+&nbsp; 
 <a href="https://www.linkedin.com/in/shreya-patha-jw13/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
